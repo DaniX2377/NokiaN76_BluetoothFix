@@ -32,7 +32,7 @@ Other devices and firmware versions have not been tested.
    | `btaccserver.exe` | `C:\sys\bin\` |
    | `btrcc.rsc` | `C:\resource\plugins\` |
 
-3.1. If the `C:\resource\plugins\` directory does not exist, create it.
+> 3.1. If the `C:\resource\plugins\` directory does not exist, create it.
 
 4. Reboot your phone.
 
@@ -49,7 +49,9 @@ To uninstall the patch:
    - `C:\sys\bin\btaccserver.exe`
    - `C:\resource\plugins\btrcc.rsc`
 2. Reboot your phone.
+
 **Important:** Do not delete or modify files on the `Z:` drive. The original ROM files remain untouched by this patch. Removing the added files from `C:` allows the system to fall back to the original ROM files, provided no previous files on `C:` need to be restored.
+
 ## Disclaimer
 
 Use at your own risk. Back up existing files before installation. Keep a copy of the original files until you have confirmed that the patch works correctly on your device.
