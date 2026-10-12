@@ -1,4 +1,6 @@
-# NokiaN76_BluetoothFix
+##If your Nokia N76 does not adjust the Bluetooth headset volume using the volume keys, this patch will help you.
+
+# NokiaN76 Bluetooth Fix
 btaccserver patch to control volume via AVRCP
 > To install the patch, you need an unlocked phone with full access to the file system.(RomPatcher Open4All)
 
