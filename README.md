@@ -54,4 +54,4 @@ To uninstall the patch:
 
 ## Disclaimer
 
-Use at your own risk. Back up existing files before installation. Keep a copy of the original files until you have confirmed that the patch works correctly on your device.
+Use at your own risk. Back up existing files before installation.
