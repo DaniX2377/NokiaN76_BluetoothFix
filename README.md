@@ -3,6 +3,7 @@
 A patch for the Nokia N76 that fixes Bluetooth headset volume control via AVRCP.
 
 If the volume indicator changes when you press the phone's volume keys, but the actual Bluetooth headset volume does not change correctly, this patch may help.
+> The files included in this patch are modified versions of the original Bluetooth system files from the Nokia N95 8GB firmware.
 
 ## Compatibility
 
@@ -23,7 +24,7 @@ Other devices and firmware versions have not been tested.
    - `btrcc.dll`
    - `btrcc.rsc`
    - `btaccserver.exe`
-2. Send files to phone(If you send files via Bluetooth, X-plore has a Tools > Messaging section where the sent files will be located.)
+2. Transfer the files to your phone.(If you send them via Bluetooth, open X-plore and go to Tools → Messaging to access the received files.)
 3. Copy the files to the following locations:
 
    | File | Destination |
@@ -39,7 +40,6 @@ Other devices and firmware versions have not been tested.
 5. Connect your Bluetooth headset, play music using the built-in music player, and adjust the volume with the phone's volume keys.
 
 Enjoy!
-
 
 ## Uninstall / Rollback
 
